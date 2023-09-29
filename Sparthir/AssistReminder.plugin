@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>Assist Target Reminder</Name>
+		<Author>Sparthir</Author>
+		<Version>1.0</Version>
+		<Description>
+			A plugin to remind a fellowship leader to set an Target Assist for the group.
+		</Description>
+		<Image>Sparthir/AssistTargetReminder/icon.tga</Image>
+	</Information>
+	<Package>Sparthir.AssistTargetReminder.Main</Package>
+	<Configuration Apartment="Sparthir" />
+</Plugin>
